@@ -1,0 +1,88 @@
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\Soul.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\Soul.pdb
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\Antlr3.Runtime.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\EntityFramework.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\Microsoft.Web.Infrastructure.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\Newtonsoft.Json.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Net.Http.Formatting.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.Http.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.Http.WebHost.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.Mvc.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.Optimization.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.Providers.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.Razor.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.WebPages.Deployment.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.WebPages.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.WebPages.Razor.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\WebGrease.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\EntityFramework.xml
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\Newtonsoft.Json.xml
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Net.Http.Formatting.xml
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.Http.xml
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.Http.WebHost.xml
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.Mvc.xml
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.Razor.xml
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.WebPages.xml
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.WebPages.Deployment.xml
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\System.Web.WebPages.Razor.xml
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\zh-Hans\EntityFramework.resources.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\zh-Hans\System.Web.Http.resources.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\zh-Hans\System.Web.Mvc.resources.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\zh-Hans\System.Web.Optimization.resources.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\zh-Hans\System.Web.Providers.resources.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\zh-Hans\System.Web.Razor.resources.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\zh-Hans\System.Web.WebPages.resources.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\obj\Debug\Soul.dll
+d:\My Documents\Visual Studio 2012\Projects\Soul\Soul\obj\Debug\Soul.pdb
+F:\学习\Soul\Soul\Soul\bin\Soul.dll.config
+F:\学习\Soul\Soul\Soul\bin\Soul.dll
+F:\学习\Soul\Soul\Soul\bin\Soul.pdb
+F:\学习\Soul\Soul\Soul\bin\Antlr3.Runtime.dll
+F:\学习\Soul\Soul\Soul\bin\EntityFramework.dll
+F:\学习\Soul\Soul\Soul\bin\EntityFramework.SqlServer.dll
+F:\学习\Soul\Soul\Soul\bin\Microsoft.Web.Infrastructure.dll
+F:\学习\Soul\Soul\Soul\bin\Newtonsoft.Json.dll
+F:\学习\Soul\Soul\Soul\bin\System.Data.SQLite.dll
+F:\学习\Soul\Soul\Soul\bin\System.Data.SQLite.EF6.dll
+F:\学习\Soul\Soul\Soul\bin\System.Data.SQLite.Linq.dll
+F:\学习\Soul\Soul\Soul\bin\System.Net.Http.Formatting.dll
+F:\学习\Soul\Soul\Soul\bin\System.Web.Http.dll
+F:\学习\Soul\Soul\Soul\bin\System.Web.Http.WebHost.dll
+F:\学习\Soul\Soul\Soul\bin\System.Web.Mvc.dll
+F:\学习\Soul\Soul\Soul\bin\System.Web.Optimization.dll
+F:\学习\Soul\Soul\Soul\bin\System.Web.Providers.dll
+F:\学习\Soul\Soul\Soul\bin\System.Web.Razor.dll
+F:\学习\Soul\Soul\Soul\bin\System.Web.WebPages.Deployment.dll
+F:\学习\Soul\Soul\Soul\bin\System.Web.WebPages.dll
+F:\学习\Soul\Soul\Soul\bin\System.Web.WebPages.Razor.dll
+F:\学习\Soul\Soul\Soul\bin\WebGrease.dll
+F:\学习\Soul\Soul\Soul\bin\EntityFramework.xml
+F:\学习\Soul\Soul\Soul\bin\EntityFramework.SqlServer.xml
+F:\学习\Soul\Soul\Soul\bin\System.Data.SQLite.xml
+F:\学习\Soul\Soul\Soul\bin\Newtonsoft.Json.xml
+F:\学习\Soul\Soul\Soul\bin\System.Net.Http.Formatting.xml
+F:\学习\Soul\Soul\Soul\bin\System.Web.Http.xml
+F:\学习\Soul\Soul\Soul\bin\System.Web.Http.WebHost.xml
+F:\学习\Soul\Soul\Soul\bin\System.Web.Mvc.xml
+F:\学习\Soul\Soul\Soul\bin\System.Web.Razor.xml
+F:\学习\Soul\Soul\Soul\bin\System.Web.WebPages.xml
+F:\学习\Soul\Soul\Soul\bin\System.Web.WebPages.Deployment.xml
+F:\学习\Soul\Soul\Soul\bin\System.Web.WebPages.Razor.xml
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\EntityFramework.resources.dll
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\System.Web.Http.resources.dll
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\System.Web.Providers.resources.dll
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\学习\Soul\Soul\Soul\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\学习\Soul\Soul\Soul\obj\Debug\Soul.dll
+F:\学习\Soul\Soul\Soul\obj\Debug\Soul.pdb
